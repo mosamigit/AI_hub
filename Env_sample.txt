@@ -1,0 +1,2 @@
+# .env
+API_KEY="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"
